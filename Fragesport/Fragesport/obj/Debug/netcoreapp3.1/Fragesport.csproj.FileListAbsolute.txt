@@ -1,0 +1,13 @@
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.csprojAssemblyReference.cache
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.AssemblyInfoInputs.cache
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.AssemblyInfo.cs
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.csproj.CoreCompileInputs.cache
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.exe
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.deps.json
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.runtimeconfig.json
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.runtimeconfig.dev.json
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.dll
+U:\Programering2\Fragesport\Fragesport\bin\Debug\netcoreapp3.1\Fragesport.pdb
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.dll
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.pdb
+U:\Programering2\Fragesport\Fragesport\obj\Debug\netcoreapp3.1\Fragesport.genruntimeconfig.cache
